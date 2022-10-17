@@ -1,42 +1,15 @@
-# Nuxt 3 Minimal Starter
 
-Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
+<img src="https://storage.googleapis.com/golden-wind/experts-club/capa-github.svg" />
 
-## Setup
+# Criando eventos no Vue 3 usando Composition API
 
-Make sure to install the dependencies:
+Nessa aula, irei mostrar como criar e usar eventos no Vue 3, usando
+Composition API com Typescript
 
-```bash
-# yarn
-yarn install
+## Expert
 
-# npm
-npm install
+| [<img src="https://avatars.githubusercontent.com/u/19227867?v=4" width="75px;"/>](https://github.com/ismaelash) |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                             [Ismael Ash](https://github.com/ismaelash)                                                             |
 
-# pnpm
-pnpm install --shamefully-hoist
-```
-
-## Development Server
-
-Start the development server on http://localhost:3000
-
-```bash
-npm run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-npm run build
-```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
+TAGS: React, Firebase, Firebase Realtime Database
