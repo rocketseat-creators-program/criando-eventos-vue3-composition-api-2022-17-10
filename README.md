@@ -10,6 +10,6 @@ Composition API com Typescript
 
 | [<img src="https://avatars.githubusercontent.com/u/19227867?v=4" width="75px;"/>](https://github.com/oismaelash) |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                             [Ismael Ash](https://github.com/ismaelash)                                                             |
+|                                                             [Ismael Ash](https://github.com/oismaelash)                                                             |
 
 TAGS: Vue, Options API, Composition API, Vue 3, Typescript
