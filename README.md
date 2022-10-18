@@ -8,7 +8,7 @@ Composition API com Typescript
 
 ## Expert
 
-| [<img src="https://avatars.githubusercontent.com/u/19227867?v=4" width="75px;"/>](https://github.com/ismaelash) |
+| [<img src="https://avatars.githubusercontent.com/u/19227867?v=4" width="75px;"/>](https://github.com/oismaelash) |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                             [Ismael Ash](https://github.com/ismaelash)                                                             |
 
