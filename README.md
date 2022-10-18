@@ -12,4 +12,4 @@ Composition API com Typescript
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                             [Ismael Ash](https://github.com/ismaelash)                                                             |
 
-TAGS: React, Firebase, Firebase Realtime Database
+TAGS: Vue, Options API, Composition API, Vue 3
